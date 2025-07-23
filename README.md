@@ -13,7 +13,7 @@ Hi 👋, I'm Kashif Manzer<br>A seasoned Blockchain/backend developer from India
 ![KashifManzer](https://github-readme-stats.vercel.app/api/top-langs/?username=KashifManzer&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![KashifManzer](https://github-profile-trophy.vercel.app/?username=KashifManzer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KashifManzer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
