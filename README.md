@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kashif Manzer<br>A seasoned Blockchain/backend developer from India<br><br>- 🌱 I’m currently learning **Rust**<br><br>- 💬 Ask me about **Blockchain, Layer 1,2,3, De-Fi,RWA,ERC standards,Solidity, Hyperledger Fabric, Javascript, Typescript, Go Lang**<br><br>- 📫 How to reach me **kmanzer3@gmail.com**
+Hi 👋, I'm Kashif Manzer<br>A seasoned Blockchain/backend developer from India<br><br>- 🌱 I’m currently learning **AI/ML**<br><br>- 💬 Ask me about **Blockchain, Layer 1,2,3, De-Fi,RWA,ERC standards,Solidity, Hyperledger Fabric, Javascript, Typescript, Go Lang**<br><br>- 📫 How to reach me **kmanzer3@gmail.com**
 
 
 ## 🌐 Socials:
