@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi 👋, I'm Kashif Manzer<br>A seasoned backend and infrastructure developer from India<br><br>- 🌱 I’m currently learning **AI/ML**<br><br>- 📫 How to reach me **kmanzer3@gmail.com**
+Hi 👋, I'm **Kashif Manzer**, a seasoned backend and infrastructure developer from India.<br>
+I build backend services and distributed systems with **Go and Python**.<br>
+My work spans cloud infrastructure, APIs, and automation with **Docker, Kubernetes, and Terraform**.<br>
+🌱 I'm exploring **AI/ML**, graph-based retrieval, and open-source tools that improve developer workflows.<br>
+📫 Reach me at **kmanzer3@gmail.com** for engineering opportunities and collaborations.
 
 
 ## 🌐 Socials:
